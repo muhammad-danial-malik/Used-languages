@@ -1,0 +1,18 @@
+*.html linguist-language=HTML linguist-detectable=true linguist-documentation=false
+*.css linguist-language=CSS linguist-detectable=true linguist-documentation=false
+*.js linguist-language=JavaScript linguist-detectable=true linguist-documentation=false
+*.jsx linguist-language=JavaScript linguist-detectable=true linguist-documentation=false
+*.json linguist-language=JSON linguist-detectable=true linguist-documentation=false
+*.sql linguist-language=SQL linguist-detectable=true linguist-documentation=false\
+*.md linguist-language=Markdown
+
+# Documentation
+*.md linguist-documentation
+*.txt linguist-documentation
+
+# Treat these files as binary
+*.png binary
+*.jpg binary
+*.gif binary
+*.ico binary
+*.svg binary

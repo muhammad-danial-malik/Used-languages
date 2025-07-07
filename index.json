@@ -1,0 +1,11 @@
+{
+    "appName": "TechStack Demo",
+    "version": "1.0.0",
+    "config": {
+        "port": 3000,
+        "database": {
+            "host": "localhost",
+            "name": "demo_db"
+        }
+    }
+}
